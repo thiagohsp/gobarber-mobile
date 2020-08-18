@@ -30,6 +30,7 @@
       "prettier"
   ],
   "rules": {
+    "import/no-duplicates": "off",
     "react/jsx-props-no-spreading": "off",
     "no-unused-expressions": "off",
     "react/prop-types": "off",
@@ -38,6 +39,7 @@
     "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
     "import/prefer-default-export": "off",
     "prettier/prettier": "error",
+    "react/jsx-curly-newline": "off",
     "camelcase":"off",
     "import/extensions": [
       "error",
